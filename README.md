@@ -1,6 +1,6 @@
 - 👋 Hi, I’m currently an incoming sophomore in San Diego. I'm planing to transfer to UC Irvine to pursue a bachelor degree in Computer Engineering.
 - 👀 I’m interested in playing Counter-Strike, playing basketball and Formula 1.
-- 🌱 I’m currently creating a project called ResumePal which utilizes AI tools to help people analyze their resumes.
+- 🌱 I’m currently creating a project called RezMatch which utilizes AI tools to help people analyze their resumes.
 - 💞️ I’m looking to collaborate on hmmmm
 - 📫 Email : jessssiegsw@gmail.com
 - 😄 Pronouns: she/her
