@@ -1,4 +1,4 @@
-I'm Jessie. An undergrad CE Major student. Community College in progress. Transferring to UC next summer.
+I'm Jessie.
 
 Javascript, C++, Node.js, React
 
