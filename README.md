@@ -1,6 +1,6 @@
-I'm Jessie.
-
-Javascript, C++, Node.js, React
+I'm Jessie. Cofounder @ Stealth Startup
+SWE @ Mercor. I work with the best AI Labs in the United States
+Javascript/Typescript, C++, Node.js, React, Docker, R
 
 🚧 [CtrlXCode](https://ctrlxcode.com) Founder
 
