@@ -6,7 +6,7 @@ Javascript/Typescript, C++, Node.js, React, Docker, Rust
 
 🚧 [CtrlXCode](https://ctrlxcode.com) Founder
 
-[![Jessie's GitHub stats-Dark](https://github-readme-stats-git-master-jessies-projects-3b82c64f.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/JessieG-TY/github-readme-stats#gh-dark-mode-only)
+[![Jessie's GitHub stats-Dark](https://github-readme-stats-eight-alpha-18.vercel.app/api?username=JessieG-TY&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/JessieG-TY/github-readme-stats#gh-dark-mode-only)
 
 
 <!---
