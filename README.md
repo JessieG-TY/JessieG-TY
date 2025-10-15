@@ -6,7 +6,7 @@ Javascript/Typescript, C++, Node.js, React, Docker, Rust
 
 🚧 [CtrlXCode](https://ctrlxcode.com) Founder
 
-[![Jessie's GitHub stats](https://github-readme-stats-btvwft7tk-jessies-projects-3b82c64f.vercel.app)](https://github.com/JessieG-TY/github-readme-stats)
+[![Jessie's GitHub stats](https://github-readme-stats-git-master-jessies-projects-3b82c64f.vercel.app/api?username=JessieG-TY)](https://github.com/JessieG-TY/github-readme-stats)
 
 
 <!---
