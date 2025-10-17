@@ -5,6 +5,7 @@ SWE @ Mercor. I work with the best AI Labs in the United States
 Javascript/Typescript, C++, Node.js, React, Docker, Rust
 
 🚧 [CtrlXCode](https://ctrlxcode.com) Founder
+
 Cofounder @ Stealth
 
 ![Top Langs](https://github-readme-stats-jessie.vercel.app/api/top-langs/?username=JessieG-TY&layout=compact&theme=radical&count_private=true)
