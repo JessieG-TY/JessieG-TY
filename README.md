@@ -1,4 +1,4 @@
-I'm Jessie. Cofounder @ Stealth Startup
+I'm Jessie.
 
 SWE @ Mercor. I work with the best AI Labs in the United States
 
