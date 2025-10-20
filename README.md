@@ -2,7 +2,7 @@ I'm Jessie.
 
 SWE @ Mercor. I work with the best AI Labs in the United States
 
-Javascript/Typescript, C++, Node.js, React, Docker, Rust
+Javascript/Typescript, Python, C++, Node.js, React, Docker, Rust, Pytorch
 
 🚧 [CtrlXCode](https://ctrlxcode.com) Founder
 
