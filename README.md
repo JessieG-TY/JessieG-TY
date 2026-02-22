@@ -1,4 +1,4 @@
-I'm Jessie.
+im jessie.
 
 SWE @ Mercor. I work with the best AI Labs in the United States
 
